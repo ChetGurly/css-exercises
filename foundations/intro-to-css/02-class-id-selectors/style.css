@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+.odd-elem
+    {
+        background-color: rgb(241, 173, 183);
+        font-family: Verdana "Dejavu Sans" sans-serif;
+    }
+
+.fs-24
+    {
+        font-size: 24px;
+    }
+
+#div1
+    {
+        color: #0000FF;
+        font-size: 36px
+    }
+
+#div2
+    {
+        font-size: 24px;
+        font-weight: bold;
+        background-color: rgb(151, 240, 151)
+    }
